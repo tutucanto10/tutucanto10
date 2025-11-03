@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Olá, eu sou o Artur Canto!
+💻 Desenvolvedor Python | 🧩 Power Platform | 🏗️ DOMMA Incorporações  
+📍 Rio de Janeiro, Brasil  
+🌱 Atualmente trabalhando no sistema de Controle de Estoque da DOMMA e no app Verbum (IA para estudos de idiomas)
 
-<!--
-**tutucanto10/tutucanto10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias e Ferramentas
+🐍 Python | 🧱 CustomTkinter | 🗄️ SQLite | 🌐 Supabase | ⚙️ Power Automate | 🧠 IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tutucanto10&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutucanto10&layout=compact&theme=tokyonight)
