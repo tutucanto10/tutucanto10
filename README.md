@@ -22,11 +22,11 @@ Always learning more about **AI**, **Microsoft 365 automation**, and **desktop/w
 
 ### 🧩 Featured Projects
 
-#### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
+#### 🤖 [ScoreBet](https://github.com/tutucanto10/ScoreBet)
 ScoreBet is a sports betting insights app built with Streamlit, designed to display predictions, odds, and confidence levels for major leagues — primarily NBA and NFL.
 It combines real game data (from ESPN APIs) with machine learning model outputs to help users identify value picks and compare risk levels across different betting markets.
 
-#### 📝[DevPortfolio - Page](https://devportfolio-puce-two.vercel.app/) // [DevPortfolio - Git Repository](https://github.com/tutucanto10/DevPortfolio)
+#### 📝 [DevPortfolio - Page](https://devportfolio-puce-two.vercel.app/) // [DevPortfolio - Git Repository](https://github.com/tutucanto10/DevPortfolio)
 Interactive portfolio developed with React, Vite, and TailwindCSS, showcasing projects, skills, and professional information of Artur Canto.
 The site consumes audio data from GitHub and features bilingual support (PT/EN), smooth animations, and a design inspired by the Tokyo Night theme.
 
