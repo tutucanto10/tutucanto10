@@ -22,9 +22,13 @@ Always learning more about **AI**, **Microsoft 365 automation**, and **desktop/w
 
 ### 🧩 Featured Projects
 
-### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
+#### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
 ScoreBet is a sports betting insights app built with Streamlit, designed to display predictions, odds, and confidence levels for major leagues — primarily NBA and NFL.
 It combines real game data (from ESPN APIs) with machine learning model outputs to help users identify value picks and compare risk levels across different betting markets.
+
+#### 📝[DevPortfolio](https://devportfolio-puce-two.vercel.app/) // (https://github.com/tutucanto10/DevPortfolio)
+Interactive portfolio developed with React, Vite, and TailwindCSS, showcasing projects, skills, and professional information of Artur Canto.
+The site consumes audio data from GitHub and features bilingual support (PT/EN), smooth animations, and a design inspired by the Tokyo Night theme.
 
 #### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
 A complete desktop application built with Python + CustomTkinter to manage IT equipment and corporate notebooks for DOMMA Inc.  
@@ -85,6 +89,10 @@ Sempre em busca de aprender mais sobre **IA**, **automação Microsoft 365** e *
 ### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
 O ScoreBet é um aplicativo de insights de apostas esportivas desenvolvido com Streamlit, projetado para exibir previsões, probabilidades e níveis de confiança para as principais ligas — principalmente NBA e NFL.
 Ele combina dados reais de jogos (de APIs da ESPN) com resultados de modelos de aprendizado de máquina para ajudar os usuários a identificar opções de valor e comparar os níveis de risco em diferentes mercados de apostas.
+
+#### 📝[DevPortfolio]([https://devportfolio-puce-two.vercel.app/] // (https://github.com/tutucanto10/DevPortfolio))
+Portfólio interativo desenvolvido com React, Vite e TailwindCSS, apresentando projetos, habilidades e informações profissionais de Artur Canto.
+O site consome dados sonoros do GitHub e conta com suporte bilíngue (PT/EN), animações suaves e design inspirado no tema Tokyo Night.
 
 #### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
 Aplicativo desktop desenvolvido em Python + CustomTkinter para gerenciar equipamentos e notebooks corporativos da DOMMA Inc.  
