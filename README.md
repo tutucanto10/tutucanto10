@@ -22,6 +22,10 @@ Always learning more about **AI**, **Microsoft 365 automation**, and **desktop/w
 
 ### 🧩 Featured Projects
 
+### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
+ScoreBet is a sports betting insights app built with Streamlit, designed to display predictions, odds, and confidence levels for major leagues — primarily NBA and NFL.
+It combines real game data (from ESPN APIs) with machine learning model outputs to help users identify value picks and compare risk levels across different betting markets.
+
 #### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
 A complete desktop application built with Python + CustomTkinter to manage IT equipment and corporate notebooks for DOMMA Inc.  
 Includes login, dashboards, Supabase integration, and PDF/Excel report exports.
@@ -77,6 +81,10 @@ Sempre em busca de aprender mais sobre **IA**, **automação Microsoft 365** e *
 ---
 
 ### 🧩 Projetos em Destaque
+
+### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
+O ScoreBet é um aplicativo de insights de apostas esportivas desenvolvido com Streamlit, projetado para exibir previsões, probabilidades e níveis de confiança para as principais ligas — principalmente NBA e NFL.
+Ele combina dados reais de jogos (de APIs da ESPN) com resultados de modelos de aprendizado de máquina para ajudar os usuários a identificar opções de valor e comparar os níveis de risco em diferentes mercados de apostas.
 
 #### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
 Aplicativo desktop desenvolvido em Python + CustomTkinter para gerenciar equipamentos e notebooks corporativos da DOMMA Inc.  
