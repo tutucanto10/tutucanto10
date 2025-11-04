@@ -55,7 +55,6 @@ Explore a magical garden filled with secrets, puzzles, and interactive explorati
 📍 Rio de Janeiro, Brazil  
 💼 [LinkedIn](https://www.linkedin.com/in/artur-canto-90bb1b224)  
 🐙 [GitHub](https://github.com/tutucanto10)
-
 📝 [My Portfolio](https://devportfolio-puce-two.vercel.app/)
 
 ---
