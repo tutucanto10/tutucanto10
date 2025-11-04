@@ -92,7 +92,7 @@ Sempre em busca de aprender mais sobre **IA**, **automação Microsoft 365** e *
 O ScoreBet é um aplicativo de insights de apostas esportivas desenvolvido com Streamlit, projetado para exibir previsões, probabilidades e níveis de confiança para as principais ligas — principalmente NBA e NFL.
 Ele combina dados reais de jogos (de APIs da ESPN) com resultados de modelos de aprendizado de máquina para ajudar os usuários a identificar opções de valor e comparar os níveis de risco em diferentes mercados de apostas.
 
-#### 📝[DevPortfolio - Página]([https://devportfolio-puce-two.vercel.app/] // [DevPortfolio - Repositório Git](https://github.com/tutucanto10/DevPortfolio)
+#### 📝[DevPortfolio - Página](https://devportfolio-puce-two.vercel.app/) // [DevPortfolio - Repositório Git](https://github.com/tutucanto10/DevPortfolio)
 Portfólio interativo desenvolvido com React, Vite e TailwindCSS, apresentando projetos, habilidades e informações profissionais de Artur Canto.
 O site consome dados sonoros do GitHub e conta com suporte bilíngue (PT/EN), animações suaves e design inspirado no tema Tokyo Night.
 
