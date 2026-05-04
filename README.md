@@ -1,129 +1,90 @@
-<!-- ============================================ -->
-<!-- 🌐 ENGLISH VERSION -->
-<!-- ============================================ -->
+<div align="center">
 
-### 👋 Hey there, I'm Artur Canto!
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║        █████╗ ██████╗ ████████╗██╗   ██╗██████╗          ║
+║       ██╔══██╗██╔══██╗╚══██╔══╝██║   ██║██╔══██╗         ║
+║       ███████║██████╔╝   ██║   ██║   ██║██████╔╝         ║
+║       ██╔══██║██╔══██╗   ██║   ██║   ██║██╔══██╗         ║
+║       ██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║         ║
+║       ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝         ║
+║                                                           ║
+║              Python Backend Developer                     ║
+║         Rio de Janeiro 📍  —  Open to relocate            ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-💻 Python developer and automation enthusiast, passionate about creating solutions that connect technology and efficiency.  
-Currently working in the I.T. department at **DOMMA Incorporações**, where I design tools to streamline internal processes and enhance team productivity.  
-Always learning more about **AI**, **Microsoft 365 automation**, and **desktop/web app development**.
-
----
-
-### 🚀 Technologies & Tools
-
-**Languages:** Python, JavaScript, Swift  
-**Backend:** Django, Node.js, REST APIs  
-**Frontend:** React, HTML, CSS  
-**Databases:** PostgreSQL, MongoDB, Supabase, SQLite  
-**Tools & Concepts:** Git, Power Automate, SharePoint, Linux, Docker (basic), Networking, Automation, AI
-
----
-
-### 🧩 Featured Projects
-
-#### 🤖 [ScoreBet](https://github.com/tutucanto10/ScoreBet)
-ScoreBet is a sports betting insights app built with Streamlit, designed to display predictions, odds, and confidence levels for major leagues — primarily NBA and NFL.
-It combines real game data (from ESPN APIs) with machine learning model outputs to help users identify value picks and compare risk levels across different betting markets.
-
-#### 📝 [DevPortfolio - Page](https://devportfolio-puce-two.vercel.app/) // [DevPortfolio - Git Repository](https://github.com/tutucanto10/DevPortfolio)
-Interactive portfolio developed with React, Vite, and TailwindCSS, showcasing projects, skills, and professional information of Artur Canto.
-The site consumes audio data from GitHub and features bilingual support (PT/EN), smooth animations, and a design inspired by the Tokyo Night theme.
-
-#### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
-A complete desktop application built with Python + CustomTkinter to manage IT equipment and corporate notebooks for DOMMA Inc.  
-Includes login, dashboards, Supabase integration, and PDF/Excel report exports.
-
-#### 🧠 [Verbum](https://github.com/tutucanto10/Verbum)
-A language-learning assistant powered by AI — designed to help users practice English and Spanish naturally through contextual interaction and gamified challenges.
-
-#### 🌸 [Segredo do Jardim Encantado](https://github.com/tutucanto10/Segredo-do-Jardim-Encantado)
-A story-driven mystery game developed during my Computer Science studies.  
-Explore a magical garden filled with secrets, puzzles, and interactive exploration.
+</div>
 
 ---
 
-### 📊 GitHub Stats
+I build things that work — systems, bots, automations, and APIs.  
+Self-taught. I learned by doing, breaking, and fixing.  
+Currently at **DOMMA Inc.**, shipping internal tools and eliminating manual work with code.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutucanto10&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutucanto10&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🌐 Connect with me
-
-📍 Rio de Janeiro, Brazil  
-💼 [LinkedIn](https://www.linkedin.com/in/artur-canto-90bb1b224)  
-🐙 [GitHub](https://github.com/tutucanto10)
-<br>
-📝 [My Portfolio](https://devportfolio-puce-two.vercel.app/)
+> *Fluent in Python, English, and Spanish. Dangerous in React.*
 
 ---
 
-✨ *"Code is art in motion — and every commit is a step in evolution."*
+## ⚡ Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=F05138)
+
+</div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 🇧🇷 VERSÃO EM PORTUGUÊS -->
-<!-- ============================================ -->
+## 🛠 Projects
 
-### 👋 Olá, eu sou o Artur Canto!
-
-💻 Desenvolvedor **Python** e entusiasta de **automação**, apaixonado por criar soluções que conectam tecnologia e eficiência.  
-Atuo no setor de T.I. da **DOMMA Incorporações**, desenvolvendo ferramentas que otimizam processos internos e aumentam a produtividade da equipe.  
-Sempre em busca de aprender mais sobre **IA**, **automação Microsoft 365** e **desenvolvimento de aplicações desktop e web**.
-
----
-
-### 🚀 Tecnologias & Ferramentas
-
-**Linguagens:** Python, JavaScript, Swift  
-**Backend:** Django, Node.js, REST APIs  
-**Frontend:** React, HTML, CSS  
-**Databases:** PostgreSQL, MongoDB, Supabase, SQLite  
-**Ferramentas:** Git, Power Automate, SharePoint, Linux, Docker (basic), Networking, Automation, AI
+| Project | What it does | Stack |
+|---|---|---|
+| 🧱 [**Controle de Estoque**](https://github.com/tutucanto10/Controle-de-Estoque) | Desktop system for IT asset management at DOMMA Inc. — dashboards, reports, PDF/Excel export | Python · Supabase · CustomTkinter |
+| 🧠 [**Verbum**](https://github.com/tutucanto10/Verbum) | AI that detects your language and helps you write better — correction, style, fluency | Python · LLM · NLP |
+| 🤖 **WhatsApp Bot** | Personal assistant via WhatsApp — tasks, reminders, integrations. Built for real daily use | Python · WhatsApp API |
+| 🏆 **Bolão Copa 2026** | World Cup betting pool with scoring system, mini-Cartola mechanics and leaderboards | Python · PostgreSQL · React |
+| 📊 [**ScoreBet**](https://github.com/tutucanto10/ScoreBet) | Sports betting insights app — ML predictions + ESPN data for NBA/NFL | Python · Streamlit · ML |
+| 🌐 [**DevPortfolio**](https://devportfolio-puce-two.vercel.app/) | Personal portfolio with bilingual support, Tokyo Night theme and smooth animations | React · Vite · TailwindCSS |
 
 ---
 
-### 🧩 Projetos em Destaque
+## 📊 Stats
 
-### 🤖[ScoreBet](https://github.com/tutucanto10/ScoreBet)
-O ScoreBet é um aplicativo de insights de apostas esportivas desenvolvido com Streamlit, projetado para exibir previsões, probabilidades e níveis de confiança para as principais ligas — principalmente NBA e NFL.
-Ele combina dados reais de jogos (de APIs da ESPN) com resultados de modelos de aprendizado de máquina para ajudar os usuários a identificar opções de valor e comparar os níveis de risco em diferentes mercados de apostas.
+<div align="center">
 
-#### 📝[DevPortfolio - Página](https://devportfolio-puce-two.vercel.app/) // [DevPortfolio - Repositório Git](https://github.com/tutucanto10/DevPortfolio)
-Portfólio interativo desenvolvido com React, Vite e TailwindCSS, apresentando projetos, habilidades e informações profissionais de Artur Canto.
-O site consome dados sonoros do GitHub e conta com suporte bilíngue (PT/EN), animações suaves e design inspirado no tema Tokyo Night.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutucanto10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutucanto10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-#### 🧱 [Controle-de-Estoque](https://github.com/tutucanto10/Controle-de-Estoque)
-Aplicativo desktop desenvolvido em Python + CustomTkinter para gerenciar equipamentos e notebooks corporativos da DOMMA Inc.  
-Inclui login, dashboards, integração com Supabase e exportação de relatórios PDF/Excel.
-
-#### 🧠 [Verbum](https://github.com/tutucanto10/Verbum)
-Aplicativo de aprendizado de idiomas com IA — ajuda o usuário a praticar inglês e espanhol de forma natural e gamificada.
-
-#### 🌸 [Segredo do Jardim Encantado](https://github.com/tutucanto10/Segredo-do-Jardim-Encantado)
-Jogo de aventura e mistério desenvolvido durante a faculdade de Ciência da Computação.  
-Explore um jardim mágico cheio de segredos, enigmas e descobertas interativas.
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌐 Find me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tutucanto10&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutucanto10&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/artur-canto-90bb1b224)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devportfolio-puce-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tutucanto10)
 
-### 🌐 Conecte-se comigo
-
-📍 Rio de Janeiro, Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/artur-canto-90bb1b224)  
-🐙 [GitHub](https://github.com/tutucanto10)
-<br>
-📝 [Meu Portfolio](https://devportfolio-puce-two.vercel.app/)
+</div>
 
 ---
 
-✨ *“Código é arte em movimento — e cada commit é um novo passo na evolução.”*
+<div align="center">
+<sub>Building in public. Learning in private. Shipping always.</sub>
+</div>
+
