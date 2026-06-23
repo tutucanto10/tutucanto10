@@ -48,7 +48,7 @@ Currently at **DOMMA Inc.**, shipping internal tools and eliminating manual work
 | 🧠 [**Verbum**](https://github.com/tutucanto10/Verbum) | AI that detects your language and helps you write better — correction, style, fluency | Python · LLM · NLP |
 | 🤖 [**WhatsApp Bot**](https://github.com/tutucanto10/Whatsapp-bot-baileys) | Personal assistant via WhatsApp — AI chat, image generation, media downloads, group management | Node.js · Baileys · OpenAI |
 | 📄 [**AutoDoc**](https://github.com/tutucanto10/AutoDoc) | Transforms raw data (CSV/Excel/JSON) into professional PDF and Excel reports with KPIs, charts and AI insights | Python · LangChain · OpenAI |
-| 🏆 **Bolão Copa 2026** | World Cup betting pool with scoring system, mini-Cartola mechanics and leaderboards | Python · PostgreSQL · React |
+| 🏆 **Bolão Copa 2026**(https://github.com/tutucanto10/copa-app) | World Cup betting pool with scoring system, mini-Cartola mechanics and leaderboards | Python · PostgreSQL · React |
 | 📊 [**ScoreBet**](https://github.com/tutucanto10/ScoreBet) | Sports betting insights app — ML predictions + ESPN data for NBA/NFL | Python · Streamlit · ML |
 
 ---
